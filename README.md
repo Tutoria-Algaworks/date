@@ -15,4 +15,4 @@ Existe apenas um endpoint, que atende no path **POST /date** com o seguinte payl
 ```
 
 O endpoint faz apenas um "System.out", pois seu intuito é mostrar como receber a data no formato desejado. Existem dois [testes integrados](https://github.com/Tutoria-Algaworks/date/blob/master/src/test/java/com/example/date/DateControllerIT.java), uma para o caso de sucesso e outro para o caso de falha.
-Eles são executados ao fazer push via github actions. O badge no início desse readme mostra o resultado da execução.
+Eles são executados via GitHub Actions e o badge no início desse readme mostra o resultado da execução.
